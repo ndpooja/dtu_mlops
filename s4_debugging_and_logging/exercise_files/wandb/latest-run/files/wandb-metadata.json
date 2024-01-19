@@ -1,0 +1,37 @@
+{
+    "os": "macOS-14.2.1-arm64-arm-64bit",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-01-19T16:23:18.112925",
+    "startedAt": "2024-01-19T16:23:17.432028",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/pooja/Documents/MLOps/dtu_mlops/s4_debugging_and_logging/exercise_files/wandb_tester.py",
+    "codePathLocal": "wandb_tester.py",
+    "codePath": "s4_debugging_and_logging/exercise_files/wandb_tester.py",
+    "git": {
+        "remote": "https://github.com/SkafteNicki/dtu_mlops",
+        "commit": "1a1972c68c58b99995cd2f289a1678cf6c631158"
+    },
+    "email": "poojakumari.iist@gmail.com",
+    "root": "/Users/pooja/Documents/MLOps/dtu_mlops",
+    "host": "dockz27-a5425.compute.dtu.dk",
+    "username": "pooja",
+    "executable": "/Users/pooja/Documents/MLOps/MLOps_env/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 12,
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 9.430850982666016
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 18.0
+    }
+}
